@@ -11,13 +11,23 @@ A simple, responsive contact form built with **React**, **TypeScript**, **Vite**
 
 ## 📸 Demo Screenshots
 
-> *(Add screenshots of your form in various states: empty, with validation errors, and on successful submission.)*
+> *(Add screenshots of your form in various states: empty, with validation errors
 
-### 🔍 Empty Form
 ![Start ](src/screenshots/form-contact.png)
+
+### 🔍 Empty Name
+
 ![Empty name](src/screenshots/empty-name.png)
+
+### 🔍 Empty Name
+
 ![Empty email](src/screenshots/empty-email.png)
+
+⚠️ Validation Errors
+
 ![invalid email](src/screenshots/invalid-email.png)
+
+### 🔍 Empty message
 ![Empty message](src/screenshots/empty-message.png)
 
 
