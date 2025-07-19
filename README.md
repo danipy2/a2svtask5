@@ -19,15 +19,15 @@ A simple, responsive contact form built with **React**, **TypeScript**, **Vite**
 
 ![Empty name](src/screenshots/empty-name.png)
 
-### 🔍 Empty Name
+### 🔍 Empty Email
 
 ![Empty email](src/screenshots/empty-email.png)
 
-⚠️ Validation Errors
+⚠️ Invalid Email
 
 ![invalid email](src/screenshots/invalid-email.png)
 
-### 🔍 Empty message
+### 🔍 Empty Message
 ![Empty message](src/screenshots/empty-message.png)
 
 
